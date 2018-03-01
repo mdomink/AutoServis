@@ -1,0 +1,40 @@
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\bin\Debug\BazaPodataka.mdf
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\bin\Debug\BazaPodataka_log.ldf
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\bin\Debug\RP3_projekt.exe.config
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\bin\Debug\RP3_projekt.exe
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\bin\Debug\RP3_projekt.pdb
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaRadniNalog.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaServisa.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaZaposlenici.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaVozila.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogRadov.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogVozilo.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogZaposlenik.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.Nalozi.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.PocetnaForma.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.Properties.Resources.resources
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.csproj.GenerateResource.Cache
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.exe
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.pdb
+C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\obj\Debug\RP3_projekt.csprojResolveAssemblyReference.cache
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\bin\Debug\BazaPodataka.mdf
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\bin\Debug\BazaPodataka_log.ldf
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\bin\Debug\RP3_projekt.exe.config
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\bin\Debug\RP3_projekt.exe
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\bin\Debug\RP3_projekt.pdb
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.csprojResolveAssemblyReference.cache
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaRadniNalog.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaServisa.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaZaposlenici.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.FormaVozila.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogRadov.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogVozilo.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.NalogZaposlenik.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.Nalozi.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.PocetnaForma.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.Properties.Resources.resources
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.csproj.GenerateResource.Cache
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.exe
+C:\Users\Marko\OneDrive - Prirodoslovno-matematički fakultet\Faks\RP3\Servis\RP3_projekt\obj\Debug\RP3_projekt.pdb
