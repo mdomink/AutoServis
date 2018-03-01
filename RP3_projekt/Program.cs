@@ -12,7 +12,7 @@ namespace RP3_projekt
         // OVDJE PROMIJENITI DIREKTORIJ!
         //H:\Documents\Faks\9. semestar\Računarski praktikum 3\Projekt\Servis\RP3_projekt
         //C:\Users\marko\Documents\GitHub\Servis\RP3_projekt
-        public static SqlConnection veza = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Marko\Downloads\AutoServis\Servis\RP3_projekt\BazaPodataka.mdf;Integrated Security=True");
+        public static SqlConnection veza = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\marko\Documents\GitHub\Servis\RP3_projekt\BazaPodataka.mdf;Integrated Security=True");
 
     }
 

@@ -86,7 +86,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(10, 220);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(441, 19);
+            this.label1.Size = new System.Drawing.Size(334, 14);
             this.label1.TabIndex = 5;
             this.label1.Text = "Izradili: Marko Dominković, Eduard Kalčićek. Copyright © 2018";
             // 
@@ -107,16 +107,16 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(238, 188);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(441, 19);
+            this.label2.Size = new System.Drawing.Size(334, 14);
             this.label2.TabIndex = 7;
             this.label2.Text = "Izradili: Marko Dominković, Eduard Kalčićek. Copyright © 2018";
             // 
             // PocetnaForma
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(243)))));
-            this.ClientSize = new System.Drawing.Size(582, 203);
+            this.ClientSize = new System.Drawing.Size(584, 211);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label1);

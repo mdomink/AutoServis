@@ -60,7 +60,7 @@
             imeLabel.AutoSize = true;
             imeLabel.Location = new System.Drawing.Point(18, 176);
             imeLabel.Name = "imeLabel";
-            imeLabel.Size = new System.Drawing.Size(34, 17);
+            imeLabel.Size = new System.Drawing.Size(28, 13);
             imeLabel.TabIndex = 1;
             imeLabel.Text = "Ime:";
             // 
@@ -68,9 +68,9 @@
             // 
             prezimeLabel.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             prezimeLabel.AutoSize = true;
-            prezimeLabel.Location = new System.Drawing.Point(236, 179);
+            prezimeLabel.Location = new System.Drawing.Point(208, 176);
             prezimeLabel.Name = "prezimeLabel";
-            prezimeLabel.Size = new System.Drawing.Size(57, 17);
+            prezimeLabel.Size = new System.Drawing.Size(48, 13);
             prezimeLabel.TabIndex = 3;
             prezimeLabel.Text = "Prezime:";
             // 
@@ -158,16 +158,16 @@
             this.imeTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource, "Ime", true));
             this.imeTextBox.Location = new System.Drawing.Point(52, 173);
             this.imeTextBox.Name = "imeTextBox";
-            this.imeTextBox.Size = new System.Drawing.Size(116, 24);
+            this.imeTextBox.Size = new System.Drawing.Size(116, 21);
             this.imeTextBox.TabIndex = 2;
             // 
             // prezimeTextBox
             // 
             this.prezimeTextBox.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.prezimeTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource, "Prezime", true));
-            this.prezimeTextBox.Location = new System.Drawing.Point(308, 176);
+            this.prezimeTextBox.Location = new System.Drawing.Point(262, 173);
             this.prezimeTextBox.Name = "prezimeTextBox";
-            this.prezimeTextBox.Size = new System.Drawing.Size(116, 24);
+            this.prezimeTextBox.Size = new System.Drawing.Size(116, 21);
             this.prezimeTextBox.TabIndex = 4;
             // 
             // button1
@@ -213,7 +213,7 @@
             // 
             // NalogZaposlenik
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(243)))));
             this.ClientSize = new System.Drawing.Size(594, 261);

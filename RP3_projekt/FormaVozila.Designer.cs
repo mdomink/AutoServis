@@ -93,7 +93,7 @@
             ime_vlasnikaLabel.AutoSize = true;
             ime_vlasnikaLabel.Location = new System.Drawing.Point(22, 19);
             ime_vlasnikaLabel.Name = "ime_vlasnikaLabel";
-            ime_vlasnikaLabel.Size = new System.Drawing.Size(82, 17);
+            ime_vlasnikaLabel.Size = new System.Drawing.Size(69, 13);
             ime_vlasnikaLabel.TabIndex = 15;
             ime_vlasnikaLabel.Text = "Ime vlasnika:";
             // 
@@ -102,7 +102,7 @@
             prezime_vlasnikaLabel.AutoSize = true;
             prezime_vlasnikaLabel.Location = new System.Drawing.Point(22, 45);
             prezime_vlasnikaLabel.Name = "prezime_vlasnikaLabel";
-            prezime_vlasnikaLabel.Size = new System.Drawing.Size(105, 17);
+            prezime_vlasnikaLabel.Size = new System.Drawing.Size(89, 13);
             prezime_vlasnikaLabel.TabIndex = 17;
             prezime_vlasnikaLabel.Text = "Prezime vlasnika:";
             // 
@@ -111,7 +111,7 @@
             kontaktLabel.AutoSize = true;
             kontaktLabel.Location = new System.Drawing.Point(22, 71);
             kontaktLabel.Name = "kontaktLabel";
-            kontaktLabel.Size = new System.Drawing.Size(58, 17);
+            kontaktLabel.Size = new System.Drawing.Size(50, 13);
             kontaktLabel.TabIndex = 19;
             kontaktLabel.Text = "Kontakt:";
             // 
@@ -120,7 +120,7 @@
             voziloLabel.AutoSize = true;
             voziloLabel.Location = new System.Drawing.Point(22, 97);
             voziloLabel.Name = "voziloLabel";
-            voziloLabel.Size = new System.Drawing.Size(49, 17);
+            voziloLabel.Size = new System.Drawing.Size(41, 13);
             voziloLabel.TabIndex = 21;
             voziloLabel.Text = "Vozilo:";
             // 
@@ -129,7 +129,7 @@
             registracijaLabel.AutoSize = true;
             registracijaLabel.Location = new System.Drawing.Point(22, 123);
             registracijaLabel.Name = "registracijaLabel";
-            registracijaLabel.Size = new System.Drawing.Size(74, 17);
+            registracijaLabel.Size = new System.Drawing.Size(64, 13);
             registracijaLabel.TabIndex = 23;
             registracijaLabel.Text = "Registracija:";
             // 
@@ -206,7 +206,6 @@
             this.vozilaBindingNavigator.BindingSource = this.vozilaBindingSource;
             this.vozilaBindingNavigator.CountItem = this.bindingNavigatorCountItem;
             this.vozilaBindingNavigator.DeleteItem = null;
-            this.vozilaBindingNavigator.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.vozilaBindingNavigator.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.bindingNavigatorMoveFirstItem,
             this.bindingNavigatorMovePreviousItem,
@@ -231,7 +230,7 @@
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(45, 22);
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(35, 22);
             this.bindingNavigatorCountItem.Text = "of {0}";
             this.bindingNavigatorCountItem.ToolTipText = "Total number of items";
             // 
@@ -241,7 +240,7 @@
             this.bindingNavigatorMoveFirstItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveFirstItem.Image")));
             this.bindingNavigatorMoveFirstItem.Name = "bindingNavigatorMoveFirstItem";
             this.bindingNavigatorMoveFirstItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(24, 22);
+            this.bindingNavigatorMoveFirstItem.Size = new System.Drawing.Size(23, 22);
             this.bindingNavigatorMoveFirstItem.Text = "Move first";
             // 
             // bindingNavigatorMovePreviousItem
@@ -250,7 +249,7 @@
             this.bindingNavigatorMovePreviousItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMovePreviousItem.Image")));
             this.bindingNavigatorMovePreviousItem.Name = "bindingNavigatorMovePreviousItem";
             this.bindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(24, 22);
+            this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(23, 22);
             this.bindingNavigatorMovePreviousItem.Text = "Move previous";
             // 
             // bindingNavigatorSeparator
@@ -278,7 +277,7 @@
             this.bindingNavigatorMoveNextItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveNextItem.Image")));
             this.bindingNavigatorMoveNextItem.Name = "bindingNavigatorMoveNextItem";
             this.bindingNavigatorMoveNextItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(24, 22);
+            this.bindingNavigatorMoveNextItem.Size = new System.Drawing.Size(23, 22);
             this.bindingNavigatorMoveNextItem.Text = "Move next";
             // 
             // bindingNavigatorMoveLastItem
@@ -287,7 +286,7 @@
             this.bindingNavigatorMoveLastItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorMoveLastItem.Image")));
             this.bindingNavigatorMoveLastItem.Name = "bindingNavigatorMoveLastItem";
             this.bindingNavigatorMoveLastItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(24, 22);
+            this.bindingNavigatorMoveLastItem.Size = new System.Drawing.Size(23, 22);
             this.bindingNavigatorMoveLastItem.Text = "Move last";
             // 
             // bindingNavigatorSeparator2
@@ -362,7 +361,7 @@
             this.ime_vlasnikaTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.vozilaBindingSource, "Ime vlasnika", true));
             this.ime_vlasnikaTextBox.Location = new System.Drawing.Point(133, 12);
             this.ime_vlasnikaTextBox.Name = "ime_vlasnikaTextBox";
-            this.ime_vlasnikaTextBox.Size = new System.Drawing.Size(121, 24);
+            this.ime_vlasnikaTextBox.Size = new System.Drawing.Size(121, 21);
             this.ime_vlasnikaTextBox.TabIndex = 19;
             this.ime_vlasnikaTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ime_vlasnikaTextBox_KeyDown);
             // 
@@ -371,7 +370,7 @@
             this.prezime_vlasnikaTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.vozilaBindingSource, "Prezime vlasnika", true));
             this.prezime_vlasnikaTextBox.Location = new System.Drawing.Point(133, 38);
             this.prezime_vlasnikaTextBox.Name = "prezime_vlasnikaTextBox";
-            this.prezime_vlasnikaTextBox.Size = new System.Drawing.Size(121, 24);
+            this.prezime_vlasnikaTextBox.Size = new System.Drawing.Size(121, 21);
             this.prezime_vlasnikaTextBox.TabIndex = 21;
             this.prezime_vlasnikaTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.prezime_vlasnikaTextBox_KeyDown);
             // 
@@ -380,7 +379,7 @@
             this.kontaktTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.vozilaBindingSource, "Kontakt", true));
             this.kontaktTextBox.Location = new System.Drawing.Point(133, 64);
             this.kontaktTextBox.Name = "kontaktTextBox";
-            this.kontaktTextBox.Size = new System.Drawing.Size(121, 24);
+            this.kontaktTextBox.Size = new System.Drawing.Size(121, 21);
             this.kontaktTextBox.TabIndex = 23;
             this.kontaktTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.kontaktTextBox_KeyDown);
             // 
@@ -389,7 +388,7 @@
             this.voziloTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.vozilaBindingSource, "Vozilo", true));
             this.voziloTextBox.Location = new System.Drawing.Point(133, 90);
             this.voziloTextBox.Name = "voziloTextBox";
-            this.voziloTextBox.Size = new System.Drawing.Size(121, 24);
+            this.voziloTextBox.Size = new System.Drawing.Size(121, 21);
             this.voziloTextBox.TabIndex = 25;
             this.voziloTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.voziloTextBox_KeyDown);
             // 
@@ -398,7 +397,7 @@
             this.registracijaTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.vozilaBindingSource, "Registracija", true));
             this.registracijaTextBox.Location = new System.Drawing.Point(133, 116);
             this.registracijaTextBox.Name = "registracijaTextBox";
-            this.registracijaTextBox.Size = new System.Drawing.Size(121, 24);
+            this.registracijaTextBox.Size = new System.Drawing.Size(121, 21);
             this.registracijaTextBox.TabIndex = 27;
             // 
             // dataGridViewCheckBoxColumn1
@@ -429,7 +428,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(261, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(17, 24);
+            this.label1.Size = new System.Drawing.Size(14, 18);
             this.label1.TabIndex = 29;
             this.label1.Text = "*";
             // 
@@ -439,7 +438,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(261, 38);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(17, 24);
+            this.label2.Size = new System.Drawing.Size(14, 18);
             this.label2.TabIndex = 30;
             this.label2.Text = "*";
             // 
@@ -449,7 +448,7 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(261, 64);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(17, 24);
+            this.label3.Size = new System.Drawing.Size(14, 18);
             this.label3.TabIndex = 31;
             this.label3.Text = "*";
             // 
@@ -459,7 +458,7 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(261, 90);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(17, 24);
+            this.label4.Size = new System.Drawing.Size(14, 18);
             this.label4.TabIndex = 32;
             this.label4.Text = "*";
             // 
@@ -469,7 +468,7 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(22, 153);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(218, 17);
+            this.label5.Size = new System.Drawing.Size(165, 13);
             this.label5.TabIndex = 33;
             this.label5.Text = "Polja označena sa * su obavezna";
             // 
@@ -501,7 +500,7 @@
             // 
             // FormaVozila
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(243)))));
             this.ClientSize = new System.Drawing.Size(984, 341);

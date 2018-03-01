@@ -73,7 +73,7 @@
             imeLabel.AutoSize = true;
             imeLabel.Location = new System.Drawing.Point(20, 15);
             imeLabel.Name = "imeLabel";
-            imeLabel.Size = new System.Drawing.Size(34, 17);
+            imeLabel.Size = new System.Drawing.Size(28, 13);
             imeLabel.TabIndex = 10;
             imeLabel.Text = "Ime:";
             // 
@@ -82,7 +82,7 @@
             prezimeLabel.AutoSize = true;
             prezimeLabel.Location = new System.Drawing.Point(20, 41);
             prezimeLabel.Name = "prezimeLabel";
-            prezimeLabel.Size = new System.Drawing.Size(57, 17);
+            prezimeLabel.Size = new System.Drawing.Size(48, 13);
             prezimeLabel.TabIndex = 12;
             prezimeLabel.Text = "Prezime:";
             // 
@@ -91,7 +91,7 @@
             adresaLabel.AutoSize = true;
             adresaLabel.Location = new System.Drawing.Point(20, 67);
             adresaLabel.Name = "adresaLabel";
-            adresaLabel.Size = new System.Drawing.Size(51, 17);
+            adresaLabel.Size = new System.Drawing.Size(42, 13);
             adresaLabel.TabIndex = 14;
             adresaLabel.Text = "Adresa:";
             // 
@@ -100,7 +100,7 @@
             broj_mobitelaLabel.AutoSize = true;
             broj_mobitelaLabel.Location = new System.Drawing.Point(20, 93);
             broj_mobitelaLabel.Name = "broj_mobitelaLabel";
-            broj_mobitelaLabel.Size = new System.Drawing.Size(90, 17);
+            broj_mobitelaLabel.Size = new System.Drawing.Size(74, 13);
             broj_mobitelaLabel.TabIndex = 16;
             broj_mobitelaLabel.Text = "Broj mobitela:";
             // 
@@ -150,7 +150,6 @@
             this.zaposleniciBindingSource2BindingNavigator.BindingSource = this.zaposleniciBindingSource2;
             this.zaposleniciBindingSource2BindingNavigator.CountItem = null;
             this.zaposleniciBindingSource2BindingNavigator.DeleteItem = null;
-            this.zaposleniciBindingSource2BindingNavigator.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.zaposleniciBindingSource2BindingNavigator.Location = new System.Drawing.Point(0, 0);
             this.zaposleniciBindingSource2BindingNavigator.MoveFirstItem = null;
             this.zaposleniciBindingSource2BindingNavigator.MoveLastItem = null;
@@ -246,7 +245,7 @@
             this.imeTextBox2.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource2, "Ime", true));
             this.imeTextBox2.Location = new System.Drawing.Point(96, 12);
             this.imeTextBox2.Name = "imeTextBox2";
-            this.imeTextBox2.Size = new System.Drawing.Size(100, 24);
+            this.imeTextBox2.Size = new System.Drawing.Size(100, 21);
             this.imeTextBox2.TabIndex = 11;
             this.imeTextBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.imeTextBox2_KeyDown);
             // 
@@ -255,7 +254,7 @@
             this.prezimeTextBox2.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource2, "Prezime", true));
             this.prezimeTextBox2.Location = new System.Drawing.Point(96, 38);
             this.prezimeTextBox2.Name = "prezimeTextBox2";
-            this.prezimeTextBox2.Size = new System.Drawing.Size(100, 24);
+            this.prezimeTextBox2.Size = new System.Drawing.Size(100, 21);
             this.prezimeTextBox2.TabIndex = 13;
             this.prezimeTextBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.prezimeTextBox2_KeyDown);
             // 
@@ -264,7 +263,7 @@
             this.adresaTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource2, "Adresa", true));
             this.adresaTextBox.Location = new System.Drawing.Point(96, 64);
             this.adresaTextBox.Name = "adresaTextBox";
-            this.adresaTextBox.Size = new System.Drawing.Size(100, 24);
+            this.adresaTextBox.Size = new System.Drawing.Size(100, 21);
             this.adresaTextBox.TabIndex = 15;
             this.adresaTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.adresaTextBox_KeyDown);
             // 
@@ -273,7 +272,7 @@
             this.broj_mobitelaTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.zaposleniciBindingSource2, "Broj mobitela", true));
             this.broj_mobitelaTextBox.Location = new System.Drawing.Point(96, 90);
             this.broj_mobitelaTextBox.Name = "broj_mobitelaTextBox";
-            this.broj_mobitelaTextBox.Size = new System.Drawing.Size(100, 24);
+            this.broj_mobitelaTextBox.Size = new System.Drawing.Size(100, 21);
             this.broj_mobitelaTextBox.TabIndex = 17;
             // 
             // button4
@@ -310,7 +309,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(202, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(17, 24);
+            this.label1.Size = new System.Drawing.Size(14, 18);
             this.label1.TabIndex = 20;
             this.label1.Text = "*";
             // 
@@ -320,7 +319,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(202, 38);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(17, 24);
+            this.label2.Size = new System.Drawing.Size(14, 18);
             this.label2.TabIndex = 21;
             this.label2.Text = "*";
             // 
@@ -330,7 +329,7 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(20, 126);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(218, 17);
+            this.label3.Size = new System.Drawing.Size(165, 13);
             this.label3.TabIndex = 22;
             this.label3.Text = "Polja označena sa * su obavezna";
             // 
@@ -349,8 +348,6 @@
             // 
             // FormaZaposlenici
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(243)))));
             this.ClientSize = new System.Drawing.Size(834, 311);
             this.Controls.Add(this.button6);
